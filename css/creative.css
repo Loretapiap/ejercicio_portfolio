@@ -1,1 +1,83 @@
-/* Inserta tu codigo CSS aqui */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.bg{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100vw;  
+	height: 100
+}
+.titulo{
+	font-weight: bold;
+	color: white;
+	display: inline;
+	float: left;
+}
+.uli{
+	text-decoration: none;
+	display: inline;
+	float: right;
+}
+.lis{
+	text-decoration: none;
+	display: inline;
+	color: white;
+	margin: 20px;
+	font-size: 12px;
+	float: left;
+}
+
+ul.uli li a{color:#FFFFFF; opacity: 0.5;}
+ul.uli li a:hover{color: #FFFFFF; opacity: 1;}
+.active{
+	text-decoration: none;
+	color: white;
+	display: inline;
+	margin: 20px;
+	font-size: 12px;
+	float: left;
+}
+.katy{
+	color: white;
+	text-align: center;
+	display: inline-block;
+	font-size: 15px;
+}
+.inter{
+	color: white;
+	display: inline-block;
+	font-size: 15px;
+	line-height: normal;
+	text-align: center;
+}
+.btn-default{
+    text-transform: none;
+	background: #F05F40;
+	overflow: visible;
+	cursor: default;
+	padding: 0;
+    border: 0;
+    line-height: normal;
+    color: white;
+    top: 7%;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+}
+.hr77{
+	border: 2px solid #F05F40;
+	width: 35px;
+}*/
+
