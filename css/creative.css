@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 
 
@@ -11,6 +12,23 @@
 
 
 */
+=======
+.centro {margin: 0 auto;}
+.awesome {font-size: 30px; color: #F05F40;}
+.gray {color: #212121;}
+.tiny {font-size: 11px;}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.bg-dark-gray {background-color: #222222; width: 100vw;}
+.text-white {color: #FFFFFF;}
+.text-light-gray {color: #a3a3a3;}
+.text-magenta {color: #BA007C;}
+.borde {border: 2px solid #F05F40; width: 50px;}
+
+/*camila*/
+
 .bg{
 	background-image: url(../img/header.jpg);
 	background-repeat: no-repeat;
@@ -80,6 +98,7 @@ ul.uli li a:hover{color: #FFFFFF; opacity: 1;}
 	border: 2px solid #F05F40;
 	width: 35px;
 }
+
 .two{
 	background-color: #C95C47;
 	width: 100%;
